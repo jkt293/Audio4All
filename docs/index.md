@@ -11,5 +11,5 @@ Audio4All addresses these issues by introducing a fully embedded digital music c
 By incorporating a digital input controller, real-time low latency audio engine, digital audio workstation, and chord progression recommendation system into a single embedded environment, Audio4All aims to demonstrate that an embedded turnkey musical platform can be achieved and even improve on current issues in the digital music industry.
 
 <audio controls autostart="true">
-  <source src="/resources/NagChampa.mp3" type="audio/mp3">
+  <source src="resources/NagChampa.mp3" type="audio/mp3">
 </audio>
