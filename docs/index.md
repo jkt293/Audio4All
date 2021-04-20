@@ -9,6 +9,10 @@ Your browser does not support the audio element.
 
 {%include youtubePlayer.html id="1H5Hb9ecIn0"%}  
 
+<p align="center">
+  <img width="800" height="400" src="https://cdn.discordapp.com/attachments/786465662640848901/832383795440648242/Audio4AllFinal.png">
+</p>
+
 
 # About the Project:
 The goal of this project was to create a functional music creation tool, and demonstrate various input methods. We wanted to make something that was easy for beginners to pick up and make something that sounds nice, but also create an enjoyable experience for someone more serious.<br/>
