@@ -18,7 +18,7 @@ However, this rapid increase in digital music capabilities has led to several dr
 Audio4All addresses these issues by introducing a fully embedded digital music creation platform featuring low levels of input latency. Audio4All uses three popular single-board computers: Bela, Raspberry Pi, and Jetson Nano, interfaced with a custom digital music instrument (DIM), to demonstrate the possibility of such a system.
 By incorporating a digital input controller, real-time low latency audio engine, digital audio workstation, and chord progression recommendation system into a single embedded environment, Audio4All aims to demonstrate that an embedded turnkey musical platform can be achieved and even improve on current issues in the digital music industry.
 
-Our final signal flow chart ended up like this (update this):
+(update this):
 
 <p align="center">
   <img width="460" height="460" src="https://github.com/neilkatahira/EE-Emerge-2020-Loopmaster/blob/master/pictures/FlowChart.png?raw=true">
