@@ -1,39 +1,27 @@
-## Welcome to GitHub Pages
+# LoopMaster
 
-You can use the [editor on GitHub](https://github.com/mooreben34/Audio4All/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[LoopMaster](https://neilkatahira.github.io/EE-Emerge-2020-Loopmaster/) is a musical project created by a team of UC Davis [EE-Emerge](https://www.ece.ucdavis.edu/ieee/home/ee-emerge/) (EEC 105ABC) students. This project allows you to create your own musical melodies or riffs, regardless of skill level or knowledge. Three custom "instruments" interface together to output notes, chords, and audio manipulations based on the user's selections.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+{%include youtubePlayer.html id="1H5Hb9ecIn0"%}  
 
-!!! Test whether pages file can still be accessed!!!
 
-### Markdown
+# About the Project:
+The goal of this project was to create a functional music creation tool, and demonstrate various input methods. We wanted to make something that was easy for beginners to pick up and make something that sounds nice, but also create an enjoyable experience for someone more serious.<br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+However there are many factors that can detract from musical creation, particulary poor sound quality and latency. To ensure that the music we were making was responsive and sounded good, we designed our project around the [Bela](https://shop.bela.io/products/bela-starter-kit):
 
-```markdown
-Syntax highlighted code block
+{%include youtubePlayer.html id="Os2ljj1cIog"%}
 
-# Header 1
-## Header 2
-### Header 3
+We used it in conjunction with a [BeagleBone Black](https://beagleboard.org/black) to process incoming signals, and respond with fast - quality sound. <br/>
 
-- Bulleted
-- List
+The next step was creating a way to get user input; we thought of a couple very creative was to use technologies like [Capsense Buttons](https://en.wikipedia.org/wiki/Capacitive_sensing) and an easy to use [Computer Vision Module](https://openmv.io/). We built our own Circuit Boards to house MicroControllers that would process our user input, and convert it to UART. We chose the [MSP430G2553](https://www.ti.com/product/MSP430G2553?utm_source=google&utm_medium=cpc&utm_campaign=epd-null-null-GPN_EN-cpc-pf-google-wwe&utm_content=MSP430G2553&ds_k=%7b_dssearchterm%7d&DCM=yes&gclid=EAIaIQobChMIla_IpeDY6QIVksDACh221wHbEAAYASAAEgIOUPD_BwE&gclsrc=aw.ds) for our microcontroller because [TI](https://www.ti.com/) sponsored our course, and the associated [Launchpad](http://www.ti.com/tool/MSP-EXP430G2) drastically increased our software development time. <br/>
 
-1. Numbered
-2. List
+Then we decided to take the project wireless! using a straightforward network of [XBee](https://www.adafruit.com/product/964) modules we were able to send multiple UART messages in unison, and create a modular sleek look to the system.
 
-**Bold** and _Italic_ and `Code` text
+Our final signal flow chart ended up like this:
 
-[Link](url) and ![Image](src)
-```
+<p align="center">
+  <img width="460" height="460" src="https://github.com/neilkatahira/EE-Emerge-2020-Loopmaster/blob/master/pictures/FlowChart.png?raw=true">
+</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mooreben34/Audio4All/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<video>  
