@@ -2,10 +2,7 @@
 
 <audio controls autostart="true">
   <source src="NagChampa.mp3" type="audio/mp3">
-Your browser does not support the audio element.
 </audio>
-
-[LoopMaster](https://neilkatahira.github.io/EE-Emerge-2020-Loopmaster/) is a musical project created by a team of UC Davis [EE-Emerge](https://www.ece.ucdavis.edu/ieee/home/ee-emerge/) (EEC 105ABC) students. This project allows you to create your own musical melodies or riffs, regardless of skill level or knowledge. Three custom "instruments" interface together to output notes, chords, and audio manipulations based on the user's selections.  
 
 {%include youtubePlayer.html id="1H5Hb9ecIn0"%}  
 
@@ -13,21 +10,15 @@ Your browser does not support the audio element.
   <img width="800" height="400" src="https://cdn.discordapp.com/attachments/786465662640848901/832383795440648242/Audio4AllFinal.png">
 </p>
 
-
 # About the Project:
-The goal of this project was to create a functional music creation tool, and demonstrate various input methods. We wanted to make something that was easy for beginners to pick up and make something that sounds nice, but also create an enjoyable experience for someone more serious.<br/>
+Recent advances in digital music, fueled by the increasing computational abilities available to consumers, allow for musicians to create sounds encompassing all genres of music. This includes the synthesis of organic sounds as well as the reproduction of digitized acoustic instruments.
 
-However there are many factors that can detract from musical creation, particulary poor sound quality and latency. To ensure that the music we were making was responsive and sounded good, we designed our project around the [Bela](https://shop.bela.io/products/bela-starter-kit):
+However, this rapid increase in digital music capabilities has led to several drawbacks in the consumer digital music industry. These include a dependence on the high-latency MIDI protocol as well as the need to purchase multiple pieces of equipment to create digital music effectively.
 
-{%include youtubePlayer.html id="Os2ljj1cIog"%}
+Audio4All addresses these issues by introducing a fully embedded digital music creation platform featuring low levels of input latency. Audio4All uses three popular single-board computers: Bela, Raspberry Pi, and Jetson Nano, interfaced with a custom digital music instrument (DIM), to demonstrate the possibility of such a system.
+By incorporating a digital input controller, real-time low latency audio engine, digital audio workstation, and chord progression recommendation system into a single embedded environment, Audio4All aims to demonstrate that an embedded turnkey musical platform can be achieved and even improve on current issues in the digital music industry.
 
-We used it in conjunction with a [BeagleBone Black](https://beagleboard.org/black) to process incoming signals, and respond with fast - quality sound. <br/>
-
-The next step was creating a way to get user input; we thought of a couple very creative was to use technologies like [Capsense Buttons](https://en.wikipedia.org/wiki/Capacitive_sensing) and an easy to use [Computer Vision Module](https://openmv.io/). We built our own Circuit Boards to house MicroControllers that would process our user input, and convert it to UART. We chose the [MSP430G2553](https://www.ti.com/product/MSP430G2553?utm_source=google&utm_medium=cpc&utm_campaign=epd-null-null-GPN_EN-cpc-pf-google-wwe&utm_content=MSP430G2553&ds_k=%7b_dssearchterm%7d&DCM=yes&gclid=EAIaIQobChMIla_IpeDY6QIVksDACh221wHbEAAYASAAEgIOUPD_BwE&gclsrc=aw.ds) for our microcontroller because [TI](https://www.ti.com/) sponsored our course, and the associated [Launchpad](http://www.ti.com/tool/MSP-EXP430G2) drastically increased our software development time. <br/>
-
-Then we decided to take the project wireless! using a straightforward network of [XBee](https://www.adafruit.com/product/964) modules we were able to send multiple UART messages in unison, and create a modular sleek look to the system.
-
-Our final signal flow chart ended up like this:
+Our final signal flow chart ended up like this (update this):
 
 <p align="center">
   <img width="460" height="460" src="https://github.com/neilkatahira/EE-Emerge-2020-Loopmaster/blob/master/pictures/FlowChart.png?raw=true">
