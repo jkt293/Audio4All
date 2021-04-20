@@ -6,7 +6,7 @@
 <p align="center">
   <img width="800" height="400" src="https://cdn.discordapp.com/attachments/786465662640848901/832383795440648242/Audio4AllFinal.png">
   
-## About the Project:
+# About the Project:
 </p>Recent advances in digital music, fueled by the increasing computational abilities available to consumers, allow for musicians to create sounds encompassing all genres of music. This includes the synthesis of organic sounds as well as the reproduction of digitized acoustic instruments.
 
 </p>However, this rapid increase in digital music capabilities has led to several drawbacks in the consumer digital music industry. These include a dependence on the high-latency MIDI protocol as well as the need to purchase multiple pieces of equipment to create digital music effectively.</p>
