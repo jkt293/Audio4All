@@ -1,6 +1,6 @@
 # 3D Enclosure Prototype
 <pre>
-Below is our enclosure that we produced for our prototype PCB. This encompassed cutouts for several keys, leds, and input power.
+Shown is our early prototype, used to enclose our individual keyboard PCB. This 3D enclosure was done using Autodesk Fusion 360. This encompassed cutouts for several keys, leds, and input power.
 </pre>
 
 <pre>
