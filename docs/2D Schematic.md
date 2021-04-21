@@ -7,5 +7,5 @@ Shown is our original 2D overview of our complete layout. This includes all the 
 ## Older design
 <pre>
 Top-down view:
-<img width="600" src="https://drive.google.com/thumbnail?id=1vXlvMcdVmkKcZyLmXVPeyTdk9SXFBR5m">
+<a href="https://lh3.googleusercontent.com/5_Qc9ntErPH-aJf4j7MisCgoQbXDs1ECLS09yWA9cB9nmICmY0aELYttiSYt3wxzTQ5MFTkwuFuh6UXsEPbBFHYzDGQ062fKykM9u-B6z6FzMoo4yjMUADwfaltyPDq-fdYYE3MDTA=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/5_Qc9ntErPH-aJf4j7MisCgoQbXDs1ECLS09yWA9cB9nmICmY0aELYttiSYt3wxzTQ5MFTkwuFuh6UXsEPbBFHYzDGQ062fKykM9u-B6z6FzMoo4yjMUADwfaltyPDq-fdYYE3MDTA=w600-h315-p-k" /> </a>
 </pre>
