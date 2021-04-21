@@ -1,0 +1,16 @@
+<pre>
+# 3D Enclosure Prototype
+Below is our enclosure that we produced for our prototype PCB. This encompassed cutouts for several keys, leds, and input power.
+
+<img src = "https://photos.app.goo.gl/FkyzneNwnMPG2dPZ6">
+</pre>
+
+<pre>
+Overall Case:
+<a href="https://lh3.googleusercontent.com/1HH19o4UACwRE7ToII1yA0CoqdMfI4S_F6aQb_a72zw4EU4hZhyCA-xp2lDFfpkwZwV-gf3mo6lfDjOeLn7Uh_dM1Q7MQ8I6eNw5I4Q1NE5Y2G2-fD2oo77phDxS1o4KBz99LoO0Yg=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/1HH19o4UACwRE7ToII1yA0CoqdMfI4S_F6aQb_a72zw4EU4hZhyCA-xp2lDFfpkwZwV-gf3mo6lfDjOeLn7Uh_dM1Q7MQ8I6eNw5I4Q1NE5Y2G2-fD2oo77phDxS1o4KBz99LoO0Yg=w600-h315-p-k" /> </a>
+</pre>
+
+
+<pre>
+Top Layer:
+<img src= "https://lh3.googleusercontent.com/BN1tRJAqwoi6Vq6umcYQeZHlh_ftV4S0LtVtfCEFbGzB6mVWLOAGSM91dY_lxjdZTuy6M2B7HpyWvCMBoAq6YmKZSWoIPmvHM1U2CK9mMLrE1X17jFuC6JJ-p35x87glTOQN89G5jzdIP4fhxa8JF-xK4zmqQL5JwfrVu4m7GJTUd41HhTpCm4023mSpB4vWMhTvE4W3xkUQWDJp5WT2tSRrFLZnSGUsi6p385GNOC3t_yx7OihG84iP_L7smwkNRUF0GSsSS85WzGeONBtvXpHv6dWsWzhDpeNkdkgJlgYOmrS45pG97eXBqu8q_b_mpK7kT6yzW1YmToMzY81jrrNJBD2FsUoh7gU3-5uqVc6ls3SmUbIpcwhGMOyyUI3JT-MO6eQnHVjVr8qbPQ_tXKxkQUqWq4VBumSvfVh9LS2no1xrNwCswDGVTx7XHPG_5vpAg2Cw5Qr9Yb_9BBtVqXnN0AY0dOMxebH5rE3PetMbcA8_C6xYCjghRwPlXEfXATHBLpTyfmun20eTy7gw6kEMWRkn4YWotEQQmvOcXNYOQLmGqX4it14VnOh9nZ69aYqnDTShazI_tKASDJZVg5pN4MohaVak8kUvvcs7gN4RkicnnsH23IMB-LX2LwDA73kue_vHFbiqTqWGcjh9uHAFEf7oYpL0HAn52o3snx4tId-KAx1v2z5M2aRhPlYORbg8yojwTDRGhCk0yetue5bQ=w916-h497-no?authuser=1">
