@@ -1,10 +1,14 @@
-<pre>
 # 2D Schematic
-Shown is our original 2D overview of our complete layout. This includes all the components used with exact measurements and dimensions of each part. Producing this schematic was a result of using Adobe Photoshop for precise scaling. 
-<a href="https://lh3.googleusercontent.com/UqS-KsH1-RhE-M4wOxbonyLhGLlJCGAq-rPcESQo3YJrI6ijqUcgebmxuOu42uvbtCowEPbz4fN-rRy_VSzdLewaC8ytwqJjlOmWlJvOonoceRxi_hB47ljvgFbNMsX7H4R49jyLmQ=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/UqS-KsH1-RhE-M4wOxbonyLhGLlJCGAq-rPcESQo3YJrI6ijqUcgebmxuOu42uvbtCowEPbz4fN-rRy_VSzdLewaC8ytwqJjlOmWlJvOonoceRxi_hB47ljvgFbNMsX7H4R49jyLmQ=w600-h315-p-k" /> </a>
+
+<pre>
+Shown is our original 2D overview of our complete layout. This includes all the components used with exact measurements and dimensions of each part. Producing this schematic was a result of using Adobe Photoshop for precise scaling.
+</pre>
+
+<pre>
+<img width="600" src="https://lh3.googleusercontent.com/3mBVa0FVGEuir8LWysV5nlOf73BsuiWpCI-Pbob61pFjCbQ_E8ciWAMETzkcimVnJjCD7BflbgZHUpfxLirzaft_65xSx1n_p4Dkcj9d5HxpT9SGGbyBkHZuEZAOTEIJjTA_LvnWJEnBpdrFM4qB2EIy3QmopwbdMeyAHEkKY6SWzh7Y60kTmwfebPiPutY-w7SmABKFhNPlusOtTLKz_oidiAXO_eoU9wcnlLYeOiKTIjMDBIjoHLjK_ZQ-CWjeaSAQM0wawL_prKk4xWmlVlRYm4CatWcvGjn_HMWgoFOKxYx8ucA7UWrwagtoMEgfkPcDe3Qx6ZwaIib9bz6EPN94Nb6eJchy9EBCIwDD8slkQDeLkJXgQ00Rz3KXQvbsYUba2VIzerGqa9djn0lGDCUoe7I_h7Coya_yBLKpGmxTPe4EVROMx0Fs1ToImnD4G3HDMX61pTQoje3dBqXUA3KdWN_Jz_rQX5ZQpd3TAYPOkxd7OUpPWluWcAjq_hw6D5QYOPF-WxpyIEwjjCwEH6uT9nXVP3aA0Jx-wd31P9ykLYKwC_G1R4QFJSodAuPaY11isv8i90j7kj2YEb8CCvdu90uHz_kWp4U66TdVo7CnSTfnROHKW7Qr8NAd7pXoYxv_xQz4pCP9E67vLoPCZTVtBOqXa0njMFbZlEN1g-0gpjqGGu3ud6O9bg7rULxgt4xYzadRwxzfTZ0YjjSIc-Fd=w916-h472-no?authuser=1">
 </pre>
 
 <pre>
 Transparent:
-<a href="https://lh3.googleusercontent.com/5_Qc9ntErPH-aJf4j7MisCgoQbXDs1ECLS09yWA9cB9nmICmY0aELYttiSYt3wxzTQ5MFTkwuFuh6UXsEPbBFHYzDGQ062fKykM9u-B6z6FzMoo4yjMUADwfaltyPDq-fdYYE3MDTA=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/5_Qc9ntErPH-aJf4j7MisCgoQbXDs1ECLS09yWA9cB9nmICmY0aELYttiSYt3wxzTQ5MFTkwuFuh6UXsEPbBFHYzDGQ062fKykM9u-B6z6FzMoo4yjMUADwfaltyPDq-fdYYE3MDTA=w600-h315-p-k" /> </a>
+<img width="600" src="https://lh3.googleusercontent.com/4uxC2tVED-cYDsyJcnh-BAlK-8uOvi-Izz7_KWxYzhNNj-uB0ofZUTIf-jTJ_1GmOBx-p16AUmeXg_Qc2vvqV-BN8ZBxvg89Cefp-EUgEeWOER6rg6_KS8q7l88YqCDlqQ1cNQ_55leRitgZnlBOhjpFlezHv9yYNR4m3cqUbUP5NZ6MpXh8ibLSzxnmX3sXZ6DF73LS7Nbk2ypDsa25St3uPl9mxAySXzYdIfiz1NN5Ia_eOb2PxB-4suKVrs9BhmbM6kV-WxZCJ-E0TUGb5CCfyFcULDIkLLtHE2YkXiYg7fL0nKbLE3OKuf2eOpgCOxCuBv-9RJNaVlw-XNrlnvT_MQjpv0Qlll6PzA4Xy0M_tyNTjE42iNrkrNzh2a-pWoknscMo0MnKDlGdjqKDsfUHIzTrabmZ9QnDMeXAgZPSS1qX9hm2e2mTbwnDCeCY5LlYB3Ps7A2HLKWSfPPEAgWwWcciGj7ZA-bIfR1wzNwyL-4dJw7wW12WkL61tgWjhfxHGVAQasSzEnBiSdhhn0rAirGnt46klhnp6eMzWIaqSaaYZ9vXMqrUKT1HH5vRzMBLZ2uFVHa-ZILrP8ykuiPsRKhf0I8WxOV6N4JTtYkyswwcTP9EIvqkN96rcPmt7-9ibYVEwX0lOVhKM8o-5ryPmSqtmitlRMdIwTTr4WOCYMkww6s3NFt2M4_NS0BLIh8eF669iCswch4QLJYQHgBj=w916-h472-no?authuser=1">
 </pre>
