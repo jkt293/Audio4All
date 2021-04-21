@@ -6,7 +6,7 @@ Shown is our original 2D overview of our complete layout. This includes all the 
 
 ## Schematic:
 <pre>
-Revised spacing of Bela placement, Trill Hub, and left room for PCB that will be responsible for powering the system.
+Revised spacing of Bela placement, Trill Hub, and allocated room for the PCB that will be responsible for powering the system.
 <img width="600" src="https://lh3.googleusercontent.com/3mBVa0FVGEuir8LWysV5nlOf73BsuiWpCI-Pbob61pFjCbQ_E8ciWAMETzkcimVnJjCD7BflbgZHUpfxLirzaft_65xSx1n_p4Dkcj9d5HxpT9SGGbyBkHZuEZAOTEIJjTA_LvnWJEnBpdrFM4qB2EIy3QmopwbdMeyAHEkKY6SWzh7Y60kTmwfebPiPutY-w7SmABKFhNPlusOtTLKz_oidiAXO_eoU9wcnlLYeOiKTIjMDBIjoHLjK_ZQ-CWjeaSAQM0wawL_prKk4xWmlVlRYm4CatWcvGjn_HMWgoFOKxYx8ucA7UWrwagtoMEgfkPcDe3Qx6ZwaIib9bz6EPN94Nb6eJchy9EBCIwDD8slkQDeLkJXgQ00Rz3KXQvbsYUba2VIzerGqa9djn0lGDCUoe7I_h7Coya_yBLKpGmxTPe4EVROMx0Fs1ToImnD4G3HDMX61pTQoje3dBqXUA3KdWN_Jz_rQX5ZQpd3TAYPOkxd7OUpPWluWcAjq_hw6D5QYOPF-WxpyIEwjjCwEH6uT9nXVP3aA0Jx-wd31P9ykLYKwC_G1R4QFJSodAuPaY11isv8i90j7kj2YEb8CCvdu90uHz_kWp4U66TdVo7CnSTfnROHKW7Qr8NAd7pXoYxv_xQz4pCP9E67vLoPCZTVtBOqXa0njMFbZlEN1g-0gpjqGGu3ud6O9bg7rULxgt4xYzadRwxzfTZ0YjjSIc-Fd=w916-h472-no?authuser=1">
 </pre>
 
