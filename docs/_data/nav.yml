@@ -4,8 +4,8 @@
 - title: Team
   url: /team.md
   
-- title: Components
-  url: /components.md
+- title: 2DSchematic
+  url: /2DSchematic.md
   sublinks:
     - title: DrumPad
       url: /drumpad.md
