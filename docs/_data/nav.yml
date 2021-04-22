@@ -3,18 +3,12 @@
   
 - title: Team
   url: /team.md
- 
-- title: Components
-  url: /components.md
-  sublinks:
-    - title: DrumPad
-      url: /drumpad.md
-    - title: CameraVision
-      url: /computervision.md
-    - title: FootPad
-      url: /footpad.md
-    - title: Bela + Software
-      url: /software.md
+
+- title: 2DSchematic
+  url: /2DSchematic.md
+
+- title: 3DEnclosurePrototype
+  url: /3DEnclosurePrototype
   
 - title: Other Links
   url: /store.html
