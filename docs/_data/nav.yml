@@ -6,15 +6,9 @@
   
 - title: 2DSchematic
   url: /2DSchematic.md
-  sublinks:
-    - title: DrumPad
-      url: /drumpad.md
-    - title: CameraVision
-      url: /computervision.md
-    - title: FootPad
-      url: /footpad.md
-    - title: Bela + Software
-      url: /software.md
+
+- title:3DEnclosurePrototype
+  url: /3DEnclosurePrototype
   
 - title: Other Links
   url: /store.html
