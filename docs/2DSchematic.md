@@ -1,7 +1,7 @@
 # 2D Schematic
 
 <pre>
-Shown is our original 2D overview of our complete layout. This includes all the components used with exact measurements and dimensions of each part.<br />Producing this schematic was a result of using Adobe Photoshop for precise scaling.
+Shown below is our original 2D overview of our complete layout. This includes all the components used with exact measurements and dimensions of each part.<br />Producing this schematic was a result of using Adobe Photoshop for precise scaling.
 </pre>
 
 ## Schematic:
