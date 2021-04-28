@@ -1,6 +1,6 @@
 # Acknowledgements
 <pre>
-Many thanks to Professor Andre Knoesen for supervising this project as well as the support from other faculty members as well! <br />This project would not have been possible without all the insight these professors provided.
+Many thanks to Professor Andre Knoesen for supervising this project as well as the support from other faculty members as well! <br />This project would not have been possible without all the insight and wisdom these professors provided.
 </pre>
 
 | | |
