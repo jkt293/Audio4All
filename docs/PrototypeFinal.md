@@ -1,7 +1,7 @@
 # Prototype Final Enclosure
 
 <pre>
-Shown is our prototype of our final enclosure. This houses our three PCB boards: FSR board, power board, and rotary encoders.<br />Producing this prototype schematic was produced in Autodesk Fusion 360.
+Shown below is our prototype of our final enclosure. This houses our three PCB boards: FSR board, power board, and rotary encoders.<br />Producing this prototype schematic was produced in Autodesk Fusion 360.
 </pre>
 
 ### Prototype:
