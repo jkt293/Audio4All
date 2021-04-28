@@ -1,8 +1,9 @@
-## Acknowledgements
-Thank you to Texas Instruments for sponsoring EE-Emerge.  
-
-Thank you Ryan Ma for your contributions on the Camera instrument during Winter Quarter 2020.
-
-Special thanks to Sean Alling and Dr. Andre Knoesen. We would not have gotten this far without their help and support.  
-
-Huge shout out to Alessandro Verdiesen and Luuk van Kuijk with the original idea and inspiration of the Airdrum and the whole project.  
+# Acknowledgements
+Thank you Professor Andre Knoesen for supervising this project as well as the support from other faculty members as well! This project would not have been possible without all the insight these professors provided.
+| | |
+|:---------------------------------------------------------:|:---------------------------------------------------:|
+|**Professor Andre Knoesen** <br/> Department of Electrical and Computer Engineering | <img src="https://faculty.engineering.ucdavis.edu/knoesen/wp-content/uploads/sites/119/2013/03/knoesen180x240.jpg" height="300"> |
+|**Professor Venkatesh Akella** <br/> Department of Electrical and Computer Engineering | <img src="https://faculty.engineering.ucdavis.edu/akella/wp-content/uploads/sites/14/2018/04/IMG_7643-210x300.jpeg" height="300"> |
+|**Professor Chen-Nee Chuah** <br/> Department of Electrical and Computer Engineering | <img src="https://faculty.engineering.ucdavis.edu/chuah/wp-content/uploads/sites/109/2018/01/chuah2016_vertical-1-229x300.jpg" height="300"> |
+|**Professor Rajeevan Amirtharajah** <br/> Department of Electrical and Computer Engineering | <img src="https://faculty.engineering.ucdavis.edu/amirtharajah/wp-content/uploads/sites/105/2013/03/rajeevan180x240.jpg" height="300"> |
+|**Professor Sam Nichols** <br/> Department of Music | <img src="https://arts.ucdavis.edu/sites/main/files/imagecache/pod/main-images/img_5372-1-sam_nichols-ssnicholsucdavis.edu_.jpg?1594632224" height="300"> |
