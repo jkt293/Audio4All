@@ -1,7 +1,8 @@
 # Acknowledgements
-<prev>
+<pre>
 Thank you Professor Andre Knoesen for supervising this project as well as the support from other faculty members as well! This project would not have been possible without all the insight these professors provided.
-</prev>
+</pre>
+
 | | |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
 |**Professor Andre Knoesen** <br/> Department of Electrical and Computer Engineering | <img src="https://faculty.engineering.ucdavis.edu/knoesen/wp-content/uploads/sites/119/2013/03/knoesen180x240.jpg" height="300"> |
