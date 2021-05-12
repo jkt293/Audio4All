@@ -7,11 +7,11 @@ Shown below is our prototype of our final enclosure. This houses our three PCB b
 ### Prototype:
 <pre>
 Designed Enclosure with a slant to allow for more accessible controls to the rotary encoders and buttons.
-<img width="600" src="https://lh3.googleusercontent.com/pw/ACtC-3d0V2vkf7jDgmeL6VNsqMx_wYvtHFGLAAueih4WqfhLfns7i2OpWmPDlcRxSFRmE4WyTAILTOlaMdB1abyoRSOyyAfZ2fd1agOLSYrU0P4StTiJ5mftXEmcLlsFifSAdxAWTyka_DID24jfdAAftGUT=w954-h597-no?authuser=1">
+<img width="600" src="https://lh3.googleusercontent.com/pw/ACtC-3d_pZnDMsk5tCblRcW1FrPIQLEvyaDrBPxkY8SMFBNujIFSSRW3WVtfDhqiDU50NkJTmyqU-PoU2xZL0hjdB0Cl5D5cU5FvomjmEjROJIUE2QTHVI5w0iZKlE3AOfl6wt4eaWiiVNy3MBee6wWuPq_u=w1920-h1200-no?authuser=1https://lh3.googleusercontent.com/pw/ACtC-3d_pZnDMsk5tCblRcW1FrPIQLEvyaDrBPxkY8SMFBNujIFSSRW3WVtfDhqiDU50NkJTmyqU-PoU2xZL0hjdB0Cl5D5cU5FvomjmEjROJIUE2QTHVI5w0iZKlE3AOfl6wt4eaWiiVNy3MBee6wWuPq_u=w1920-h1200-no?authuser=1">
 </pre>
 
 ### Prototype Internal:
 <pre>
 Internal view of enclosure.
-<img width="600" src="https://lh3.googleusercontent.com/pw/ACtC-3dqk5UkPGATk1khbyW6DcovG_j6OADuLd8a71jzz2oNcVJJAPVPDb-Q92d4IaSJA12zSo7UFgR2GC-TfzQyH0L8XDJNqbcG8uloGbZ78sqb7UGuNQ3glfFrpfc6DCOgQuzOzJAUiEkJtecpuF1t5ReS=w954-h597-no?authuser=1">
+<img width="600" src="https://lh3.googleusercontent.com/pw/ACtC-3ejAWKrPRFqEj7NDMqI1bcwwBcfUXF_tN0cuNpNmfNkt_Z0zOLH8q00qC_vlpJGl9QB31JiRKDy6XFNk48DTnUGjMFCOp3-NbMcyWmT3WM7Li95O5ZZusdkSzhR9H7_51SnGim6k-SawCYW_YgE2odj=w1920-h1200-no?authuser=1">
 </pre>
