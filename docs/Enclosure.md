@@ -33,7 +33,7 @@ External view of the prototype enclosure.
 <pre>
 Internal view of the prototype enclosure.
 <img width="600" src="https://lh3.googleusercontent.com/pw/ACtC-3ejAWKrPRFqEj7NDMqI1bcwwBcfUXF_tN0cuNpNmfNkt_Z0zOLH8q00qC_vlpJGl9QB31JiRKDy6XFNk48DTnUGjMFCOp3-NbMcyWmT3WM7Li95O5ZZusdkSzhR9H7_51SnGim6k-SawCYW_YgE2odj=w1920-h1200-no?authuser=1">
-=======
+
 ### Prototype:
 <pre>
 Designed Enclosure with a slant to allow for more accessible controls to the rotary encoders and buttons.
