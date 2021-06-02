@@ -7,7 +7,7 @@ Shown below is our final enclosure. This houses our three PCB boards: FSR board,
 ### Exterior: 
 <pre>
 External view of the finalized enclosure.
-<img width="600" src="https://lh3.googleusercontent.com/pw/ACtC-3c4bVOte_L-8eH-S5GkSMOlMUc_HloWBUWmihqLDoDMrNANnzc2gYTrfpa5vIh-W536eV3OMLnliYw_HN1RuZvjQaYDgwJc7K3kdgkREq0OWUlVf-c23wDjxDb7iC_tqypM04UeMeGxc60EpM9sn0-c=w948-h593-no?authuser=1">
+<img width="600" src="https://lh3.googleusercontent.com/pw/ACtC-3eKvmCrbmmIfb83OnNeUcG8s-H-upF93bxmOFIuhVlR1VKovCSOgM9MeYPCyE5-5P-ioeM__2p8-zAvipWnwbdcq4Y5e-P_LUXn4UunAIWe8oOXw6-1xjXlm-dYMqiJfJbuAxYK1VGOKrnmNoNwc-ab=w1752-h1095-no?authuser=1">
 </pre>
 
 ### Interior:
