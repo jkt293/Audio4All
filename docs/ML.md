@@ -7,9 +7,10 @@ and Implementations are explained their.
 ### Introduction Video
 
 Machine Learning Overview Presenatation  
+<pre>
 <a href="https://youtu.be/zTTHPHJ2c48" target="_blank"><img src="http://img.youtube.com/vi/zTTHPHJ2c48/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="350" height="250" border="10" /></a>
-
+</pre>
 
 ### Demo Video of Inferenced Model Recommender
 
